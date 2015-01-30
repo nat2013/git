@@ -29,3 +29,13 @@ git reset --hard (commit id)
 
 git reflog
 查看执行命令日志
+
+git check -- file
+还原本地修改
+
+git reseet HEAD file
+撤销暂缓区的修改
+
+
+git rm
+移除文件
