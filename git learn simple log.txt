@@ -1,0 +1,31 @@
+
+
+git init 
+创建版本库
+
+git add
+添加文件
+
+git status
+查看版本状态
+
+git commit -m "msg"
+提交并记录日志
+
+git diff
+查看差异
+
+git log
+查看日志
+
+git log --pertty=online
+查看简要日志
+
+git reset --hard HEAD^
+还原到上一个版本
+
+git reset --hard (commit id)
+还原到指定版本
+
+git reflog
+查看执行命令日志
